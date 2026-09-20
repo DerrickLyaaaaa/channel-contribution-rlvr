@@ -1,0 +1,65 @@
+{
+  "task_id": "channel-contribution-v1/0",
+  "channels": [
+    {
+      "channel_id": "C01",
+      "order_count": 4,
+      "gross_cents": 87149,
+      "refund_cents": 5070,
+      "net_cents": 82079,
+      "cost_cents": 39133,
+      "fee_cents": 2462,
+      "contribution_cents": 40484,
+      "eligible": true
+    },
+    {
+      "channel_id": "C02",
+      "order_count": 4,
+      "gross_cents": 60171,
+      "refund_cents": 3681,
+      "net_cents": 56490,
+      "cost_cents": 33369,
+      "fee_cents": 3954,
+      "contribution_cents": 19167,
+      "eligible": true
+    },
+    {
+      "channel_id": "C03",
+      "order_count": 4,
+      "gross_cents": 81032,
+      "refund_cents": 18264,
+      "net_cents": 62768,
+      "cost_cents": 29387,
+      "fee_cents": 2825,
+      "contribution_cents": 30556,
+      "eligible": false
+    },
+    {
+      "channel_id": "C04",
+      "order_count": 4,
+      "gross_cents": 30155,
+      "refund_cents": 1765,
+      "net_cents": 28390,
+      "cost_cents": 30076,
+      "fee_cents": 710,
+      "contribution_cents": -2396,
+      "eligible": false
+    },
+    {
+      "channel_id": "C05",
+      "order_count": 2,
+      "gross_cents": 44166,
+      "refund_cents": 4214,
+      "net_cents": 39952,
+      "cost_cents": 20938,
+      "fee_cents": 2397,
+      "contribution_cents": 16617,
+      "eligible": false
+    }
+  ],
+  "ranking": [
+    "C01",
+    "C02"
+  ],
+  "total_contribution_cents": 59651
+}
